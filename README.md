@@ -1,0 +1,3 @@
+Este proyecto corresponde al desarrollo del primer parcial de la asignatura Desarrollo de Aplicaciones Web y Sistemas Operativos. Su propósito principal es demostrar la configuración inicial de un entorno de trabajo web profesional, aplicando una estructura limpia basada en HTML, CSS y JavaScript organizada en carpetas modulares para el control de versiones con Git.
+Estudiante: Eva Sandrith Vergara
+Código: 0192571
